@@ -6,7 +6,6 @@ Monoalphabetic encryption/decryption system written in 8086 assembly language
   * [Abstract](#abstract)
   * [Functionality](#functionality)
   * [Tools](#tools)
-  * [Remarks](#remarks)
   * [Sample Run Using emu8086](#sample-run-using-emu8086)
   
 
@@ -24,12 +23,8 @@ Monoalphabetic encryption/decryption system written in 8086 assembly language
  **3. This program omits all spaces in the result, however, I've clearly indicated the location of the part that does that in the code with comments so you can remove it at will.**
 
 ## Tools
-1. emu8086 (IDE)
-2. x86 Assembly
-
-## Remarks
-This assembly program was run and tested on the x86 emulator [emu8086](https://emu8086.en.lo4d.com/windows#:~:text=Tutorial....-,Emu8086%20is%20a%20Microprocessor%20Emulator%20with%20an%20integrated%208086%20Assembler,memory%20and%20input%2Foutput%20devices.).
-
+1. This assembly program was run and tested on the x86 emulator [emu8086](https://emu8086.en.lo4d.com/windows#:~:text=Tutorial....-,Emu8086%20is%20a%20Microprocessor%20Emulator%20with%20an%20integrated%208086%20Assembler,memory%20and%20input%2Foutput%20devices.).
+2. Intel 8086 Assembly Language
 
 ## Sample Run Using emu8086:
 
