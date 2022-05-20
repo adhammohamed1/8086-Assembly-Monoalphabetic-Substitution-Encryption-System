@@ -7,7 +7,7 @@ Monoalphabetic encryption/decryption system written in 8086 assembly language
   * [Functionality](#functionality)
   * [Tools](#tools)
   * [Remarks](#remarks)
-  * [Sample Run Using emu8086](#sample-run)
+  * [Sample Run Using emu8086](#sample-run-using-emu8086)
   
 
 ## Abstract
