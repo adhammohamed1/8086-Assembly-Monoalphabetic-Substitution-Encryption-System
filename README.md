@@ -1,7 +1,7 @@
 # x86-Assembly-Monoalphabetic-Substitution-Encryption-System
 Monoalphabetic encryption/decryption system written in 8086 assembly language
 
-## Table of Content
+## Table of Contents
 - [8086-Assembly-Monoalphabetic-Substitution-Encryption-System](#x86-assembly-monoalphabetic-substitution-encryption-system)
   * [Abstract](#abstract)
   * [Functionality](#functionality)
